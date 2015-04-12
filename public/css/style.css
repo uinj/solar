@@ -1,0 +1,25 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+div#map {
+	position: relative;
+}
+
+div#crosshair {
+	position: absolute;
+	top: 192px;
+	height: 19px;
+	width: 19px;
+	left: 50%;
+	margin-left: -8px;
+	display: block;
+	background: url(../Documents/Unnamed%20Site%202/crosshair.gif);
+	background-position: center center;
+	background-repeat: no-repeat;
+}
