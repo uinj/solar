@@ -1,4 +1,4 @@
 # solar
-HackuMass prototype
+HackUMass prototype
 
-## calculate how much money you need to install solar panels based on your location
+## Calculates the estimated cost to install solar panels with user address
